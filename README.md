@@ -9,7 +9,7 @@ An interactive and user-friendly reference dashboard designed for data analysts 
 * **UI/UX Design:** A clean, minimalist, and high-contrast layout optimized for comfortable daily use as a quick-reference tool.
 
 ## 📊 Dashboard Interface
-![Dax functions cheat sheet Daria2026 .pbix](DAX%20cheat%20sheet%202026.jpg)
+![Dax functions cheat sheet Daria2026 .pbix](DAX_Cheat_Sheet.jpg)
 
 ## 📂 How to Use This Project Locally:
 1. Download the `Dax functions cheat sheet Daria2026 .pbix` file from this repository.
